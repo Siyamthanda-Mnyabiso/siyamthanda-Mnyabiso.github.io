@@ -2,7 +2,7 @@
 
 # Siyamthanda Mnyabiso
 
-### Full-Stack Developer • Frontend Engineer • UI/UX Desig
+### Full-Stack Developer • Frontend Engineer • UI/UX Designer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+Engineer;React+%2B+Node.js+Developer;Building+Modern+Digital+Experiences" />
 
