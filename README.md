@@ -32,7 +32,7 @@ The portfolio demonstrates my ability to:
 
 # Live Portfolio Website
 
-👉 https://yourusername.github.io/digital-portfolio
+👉 https://siyamthanda-mnyabiso.github.io/digital-portfolio
 
 ---
 
