@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer • Frontend Engineer • UI/UX Designer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+Engineer;React+%2B+Node.js+Developer;Building+Modern+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+Engineer;React+%2B+Node.js+Developer;Building+Modern+Digital+Experiences" />
 
 <br/>
 
@@ -15,105 +15,143 @@
 
 </div>
 
+---
 
-# Siyamthanda Mnyabiso — Digital Portfolio
+# Welcome
 
-Full-Stack Developer • Frontend Engineer • UI/UX Designer  
-Final-year IT Applications Development student at CPUT
+This is my digital portfolio showcasing my skills, projects, technical experience, and work readiness training as a developer.
+
+The portfolio demonstrates my ability to:
+- Build full-stack web applications
+- Design modern responsive user interfaces
+- Deploy scalable web platforms
+- Structure technical documentation using Markdown
+- Present projects professionally using GitHub Pages
 
 ---
 
-## Welcome
-
-This is my digital portfolio showcasing my skills, projects, experience, and work readiness training as a software developer.
-
-It demonstrates my ability to build and deploy full-stack web applications using modern technologies.
-
----
-
-## Live Portfolio Website
+# Live Portfolio Website
 
 👉 https://yourusername.github.io/digital-portfolio
 
 ---
 
-## About Me
+# About Me
 
-I am a passionate developer focused on building modern, scalable, and user-friendly web applications using:
+Final-year IT Applications Development student at CPUT with hands-on experience building modern full-stack applications using React, Node.js, Express, MongoDB, and Tailwind CSS.
 
-- React
-- Node.js
-- Express
-- MongoDB
-- Tailwind CSS
+I specialize in:
+- Frontend engineering
+- SaaS platforms
+- UI/UX design
+- Responsive web applications
+- Full-stack development
 
-I enjoy turning ideas into real digital products and improving user experiences through clean UI and efficient backend systems.
-
----
-
-## Featured Projects
-
-### 🚀 TopDeck — SaaS Booking Platform
-https://top-deck.vercel.app/  
-GitHub: https://github.com/Siyamthanda-Mnyabiso/TopDeck
-
-Full-stack booking system for beauty professionals with authentication, dashboards, and scheduling features.
+I enjoy turning ideas into real digital products with clean architecture and strong user experiences.
 
 ---
 
-### 🍔 IzzyBurger — Restaurant Website
-https://izzy-burger.vercel.app/  
-GitHub: https://github.com/Siyamthanda-Mnyabiso/izzy-burger
+# Tech Stack
 
-Modern responsive restaurant website with premium UI design and scalable frontend architecture.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,vscode,figma,vercel" />
+</p>
 
 ---
 
-## Portfolio Sections
+# GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siyamthanda-Mnyabiso&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siyamthanda-Mnyabiso&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+## 🚀 TopDeck — Beauty Service Booking SaaS Platform
+
+> Modern full-stack booking platform for beauty professionals and clients.
+
+### Tech Stack
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT`
+
+🔗 Live Demo: https://top-deck.vercel.app/  
+🔗 GitHub Repository: https://github.com/Siyamthanda-Mnyabiso/TopDeck
+
+### Features
+- Secure JWT authentication
+- Responsive dashboards
+- REST API architecture
+- MongoDB integration
+- Admin and client systems
+- Scalable SaaS structure
+
+---
+
+## 🍔 IzzyBurger — Restaurant Website
+
+> Premium restaurant website inspired by modern food and streetwear branding.
+
+### Tech Stack
+`React` `Vite` `Tailwind CSS` `JavaScript`
+
+🔗 Live Demo: https://izzy-burger.vercel.app/  
+🔗 GitHub Repository: https://github.com/Siyamthanda-Mnyabiso/izzy-burger
+
+### Features
+- Multi-page architecture
+- Reusable React components
+- Responsive layouts
+- Dynamic content handling
+- Modern UI/UX design
+- Optimized mobile experience
+
+---
+
+# Portfolio Sections
 
 - 📄 CV (Markdown)
-- 🧠 Reflections (STAR method)
+- 🧠 STAR Reflections
 - 🎥 Mock Interview
 - 🚀 Projects
-- 📦 Deployment (GitHub Pages)
+- 🌐 GitHub Pages Deployment
 
 ---
 
-## Tech Stack
+# Mock Interview
 
-Frontend: React, JavaScript, HTML, CSS, Tailwind  
-Backend: Node.js, Express, MongoDB  
-Tools: Git, GitHub, Vercel, Render, Figma
-
----
-
-## Mock Interview
-
-🎥 Add your video link here:
-- YouTube / Google Drive
+🎥 Watch Mock Interview:  
+PASTE_VIDEO_LINK_HERE
 
 ---
 
-## Reflections
+# Reflections
 
-Includes STAR-based reflections on:
-- Markdown development
+This portfolio includes reflections on:
+- Coding in Markdown
 - Mock interview experience
 - GitHub Pages deployment
 
----
-
-## How This Project Was Built
-
-1. Designed portfolio structure
-2. Created Markdown-based documentation
-3. Added CV and projects
-4. Deployed using GitHub Pages
-5. Tested live deployment link
+Each reflection follows the STAR method:
+- Situation
+- Task
+- Action
+- Result
 
 ---
 
-## Contact
+# Contact
 
 📧 siyamthandamnyabiso7@gmail.com  
 📞 073 296 4793  
+
+🔗 GitHub: https://github.com/Siyamthanda-Mnyabiso
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
