@@ -1,3 +1,21 @@
+<div align="center">
+
+# Siyamthanda Mnyabiso
+
+### Full-Stack Developer • Frontend Engineer • UI/UX Designer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+Engineer;React+%2B+Node.js+Developer;Building+Modern+Digital+Experiences" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-React-black?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Backend-Node.js-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Database-MongoDB-black?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/UI-TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
+
+</div>
+
+
 # Siyamthanda Mnyabiso — Digital Portfolio
 
 Full-Stack Developer • Frontend Engineer • UI/UX Designer  
