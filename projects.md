@@ -2,55 +2,59 @@
 
 ---
 
-## TopDeck — Beauty Service Booking SaaS Platform
+## 🚀 TopDeck — Beauty Service Booking SaaS Platform
 
 🔗 Live Demo: https://top-deck.vercel.app/  
-🔗 GitHub: https://github.com/Siyamthanda-Mnyabiso/TopDeck
+🔗 GitHub: https://github.com/Siyamthanda-Mnyabiso/TopDeck  
 
 ### Overview
-TopDeck is a full-stack SaaS booking platform for beauty professionals and clients.
+TopDeck is a full-stack SaaS booking platform designed for beauty professionals and clients.
 
 ### My Role
 Full-Stack Developer
 
 ### Features
-- User authentication (JWT)
-- Booking system for appointments
+- JWT authentication system
+- Booking and appointment management
 - Responsive dashboard UI
 - REST API integration
 - MongoDB database integration
 - Admin and client dashboards
-- Deployment on Vercel and Render
+- Scalable architecture
 
 ### Tech Stack
-React, Node.js, Express, MongoDB, Tailwind CSS, JWT
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT`
 
 ### Outcome
-Delivered a fully functional SaaS platform with scalable architecture and responsive UI.
+Successfully developed and deployed a scalable SaaS platform with modern UI and secure authentication systems.
 
 ---
 
-## IzzyBurger — Restaurant Website
+## 🍔 IzzyBurger — Restaurant Website
 
 🔗 Live Demo: https://izzy-burger.vercel.app/  
-🔗 GitHub: https://github.com/Siyamthanda-Mnyabiso/izzy-burger
+🔗 GitHub: https://github.com/Siyamthanda-Mnyabiso/izzy-burger  
 
 ### Overview
-A modern restaurant website built for IzzyBurger, a Cape Town-based food brand.
+Modern restaurant website built for a Cape Town-based burger brand.
 
 ### My Role
 Frontend Developer & UI Designer
 
 ### Features
-- Multi-page website structure
-- Responsive design for mobile and desktop
-- Modern UI inspired by food & streetwear branding
+- Multi-page architecture
+- Responsive layouts
+- Premium UI aesthetics
+- Dynamic content systems
 - Reusable React components
-- Cloudinary image integration
-- Dynamic data handling
+- Mobile-first design
 
 ### Tech Stack
-React, Vite, Tailwind CSS, React Router DOM, JavaScript
+`React` `Vite` `Tailwind CSS` `JavaScript`
 
 ### Outcome
-Created a visually strong, responsive restaurant website with scalable frontend architecture.
+Created a responsive and visually strong frontend platform focused on user experience and scalability.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
