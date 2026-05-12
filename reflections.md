@@ -7,56 +7,60 @@ This section reflects on my learning experiences during the development of my di
 # 1. Reflection on Coding in Markdown
 
 ## Situation
-I was required to create a professional digital portfolio using Markdown as part of my assessment.
+I was required to create a professional digital portfolio using Markdown.
 
 ## Task
-My task was to learn and apply Markdown syntax to structure my CV and portfolio in a clean, readable, and professional format.
+My task was to learn and apply Markdown syntax to structure my CV and portfolio professionally.
 
 ## Action
-I researched GitHub Flavoured Markdown and practiced using headings, lists, links, and formatting. I then structured my CV and portfolio content inside GitHub using Markdown files, ensuring proper organisation and readability.
+I researched GitHub Flavoured Markdown and practiced using headings, formatting, links, and structured documentation techniques. I then created Markdown files for my CV, projects, and reflections.
 
 ## Result
-I successfully created a well-structured digital CV and portfolio. This improved my understanding of documentation practices used in real-world software development environments and strengthened my ability to present information clearly.
+I successfully built a structured digital portfolio and improved my understanding of developer documentation practices and technical content organisation.
 
 ---
 
 # 2. Reflection on Mock Interview Experience
 
 ## Situation
-I participated in a mock interview as part of my work readiness training to simulate a real-world job interview.
+I participated in a mock interview as part of my work readiness training.
 
 ## Task
-I was required to answer technical and behavioural questions while presenting myself professionally.
+I was required to answer interview questions professionally while presenting my technical skills and experience.
 
 ## Action
-I prepared by reviewing common interview questions and practising how to explain my projects and technical skills clearly. During the interview, I focused on communication, confidence, and structuring my answers properly.
+I prepared by reviewing common interview questions and practicing how to explain my projects and technical background clearly.
 
 ## Result
-The experience improved my confidence and communication skills. I learned how to present my technical experience more effectively and how to structure responses using clear examples.
+The mock interview improved my confidence, communication skills, and ability to present myself professionally in technical interview environments.
 
 ---
 
 # 3. Reflection on GitHub Pages Deployment
 
 ## Situation
-I needed to publish my digital portfolio online using GitHub Pages.
+I needed to publish my portfolio online using GitHub Pages.
 
 ## Task
-My task was to deploy my GitHub repository and ensure it was accessible through a live website link.
+My task was to deploy my repository successfully and ensure the website was accessible through a live link.
 
 ## Action
-I configured GitHub Pages in my repository settings, selected the correct branch, and deployed my portfolio. I then tested the live link to ensure all pages, links, and content were working correctly.
+I configured GitHub Pages, selected the deployment branch, and tested all pages and links after deployment.
 
 ## Result
-I successfully deployed my portfolio as a live website. This helped me understand how static websites are hosted and improved my knowledge of deployment workflows used in modern web development.
+I successfully deployed my portfolio and improved my understanding of hosting, deployment workflows, and static website publishing.
 
 ---
 
 # Overall Learning Outcome
 
-Through this project, I developed stronger skills in:
+Through this project, I strengthened my skills in:
 - Markdown documentation
-- Git and GitHub workflows
-- Web deployment using GitHub Pages
-- Professional communication and self-reflection
-- Structuring a developer portfolio
+- GitHub workflows
+- Web deployment
+- Professional communication
+- Portfolio presentation
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
