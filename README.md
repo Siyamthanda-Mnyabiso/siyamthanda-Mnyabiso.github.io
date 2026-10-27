@@ -32,7 +32,7 @@ The portfolio demonstrates my ability to:
 
 # Live Portfolio Website
 
-👉 https://siyamthanda-mnyabiso.github.io/
+👉 https://www.nexacode.co.za/
 
 ---
 
