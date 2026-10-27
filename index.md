@@ -64,6 +64,12 @@ Modern multi-page restaurant website with responsive design and premium UI aesth
 
 ---
 
+# Agile Portfolio
+
+🔗 [Open the PC Revival Agile Portfolio](agile.html): team charter, user stories, product backlog, sprint backlog and logbook.
+
+---
+
 # Mock Interview
 
 🔗 [Watch Mock Interview](PASTE_VIDEO_LINK_HERE)
