@@ -2,142 +2,129 @@
 
 # Siyamthanda Mnyabiso
 
-## Full-Stack Developer • Frontend Engineer • UI/UX Designer
+## Front-End Developer | React & TypeScript
 
 📍 Cape Town, South Africa  
 📧 siyamthandamnyabiso7@gmail.com  
-📞 073 296 4793  
+📞 +27 73 296 4793  
 
-[GitHub](https://github.com/Siyamthanda-Mnyabiso)
+[GitHub](https://github.com/Siyamthanda-Mnyabiso) • [LinkedIn](https://www.linkedin.com/in/siyamthanda-mnyabiso-a727a8210) • [nexacode.co.za](https://www.nexacode.co.za/)
 
 </div>
 
 ---
 
-# About Me
+# Profile
 
-Final-year IT Applications Development student at CPUT with hands-on experience building modern full-stack web applications using React, Node.js, Express, MongoDB, and Tailwind CSS.
-
-Experienced in frontend development, UI/UX design, and deploying scalable web applications using Vercel and Render.
-
-Passionate about building modern digital products, SaaS platforms, and intuitive user experiences.
+Final-year Diploma in ICT: Applications Development student (CPUT, Dec 2026) and front-end developer with 3+ years of freelance experience designing, building and launching live client websites. Builds responsive, performance-optimised interfaces in React, TypeScript and Tailwind CSS, plus back-end work in Node.js, Express and MongoDB. Brings a client-first approach from customer support: understand the need, then explain the fix simply.
 
 ---
 
-# Tech Stack
+# Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,tailwind,js,html,css,git,github,figma,vercel,wordpress" />
 </p>
+
+- **Front-end:** React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, responsive design
+- **Back-end and data:** Node.js, Express.js, REST APIs, MongoDB
+- **Tools and design:** Git, GitHub, Vite, Vercel, Render, WordPress, Figma, Canva
+- **Professional:** Client requirements gathering, end-to-end delivery, troubleshooting, plain-language communication
 
 ---
 
-# Featured Projects
+# Experience
 
-## 🚀 TopDeck — Beauty Service Booking SaaS Platform
+## Freelance Web Designer & Front-End Developer
+### Self-employed
+**March 2023 – Present**
 
-### Full-Stack SaaS Application
+- Delivered multiple client websites end-to-end for small businesses and personal brands, from first brief and UI/UX design to build and live deployment, including the VRIL Couture online store.
+- Work directly with clients to understand their goals, turning requirements into UI/UX concepts and visual assets in Figma and Canva before development starts.
+- Build with React, JavaScript, Tailwind CSS and WordPress, optimising every site for mobile responsiveness, performance and user experience.
+
+---
+
+## Service Agent
+### Astound Broadband, HGS campaign
+**March 2025 – September 2025**
+
+- Resolved broadband customers' connectivity, service-disruption and billing queries as first-line technical support, guiding them step by step through troubleshooting.
+- Documented fault investigations and resolutions in CRM and ticketing systems, keeping case histories accurate.
+- Escalated unresolved issues to L2/L3 support with clear case notes, while meeting SLA and quality standards.
+
+---
+
+# Projects
+
+## VRIL Couture: E-commerce Website
+**2024**
+
+🔗 [vrilcouture.co.za](https://vrilcouture.co.za)
+
+Live fashion e-commerce store with a product catalogue, responsive UI and mobile-optimised checkout.
+
+**Tech:** React, TypeScript, Tailwind CSS
+
+---
+
+## NexaCode: Professional Portfolio
+**2024 – Present**
+
+🔗 [nexacode.co.za](https://www.nexacode.co.za/)
+
+Personal portfolio showcasing web, UI/UX and e-commerce projects, built for SEO and performance.
+
+**Tech:** React, TypeScript, Tailwind CSS, Vite, Git, Vercel
+
+---
+
+## 🚀 TopDeck: Beauty Service Booking SaaS Platform
 **2024 – Present**
 
 🔗 Live Demo: https://top-deck.vercel.app/  
 🔗 GitHub Repository: https://github.com/Siyamthanda-Mnyabiso/TopDeck  
 
-### Key Contributions
-- Built scalable full-stack architecture
-- Developed responsive frontend using React and Tailwind CSS
-- Implemented JWT authentication
-- Built REST APIs using Express.js
-- Integrated MongoDB database systems
-- Deployed frontend on Vercel and backend on Render
+Full-stack booking platform built with React, Node.js, Express, MongoDB and JWT authentication. Frontend deployed on Vercel and backend on Render.
 
 ---
 
-## 🍔 IzzyBurger — Freelance Frontend Project
-
-### Restaurant Brand Website
+## 🍔 IzzyBurger: Freelance Frontend Project
 **2026**
 
 🔗 Live Demo: https://izzy-burger.vercel.app/  
 🔗 GitHub Repository: https://github.com/Siyamthanda-Mnyabiso/izzy-burger  
 
-### Key Contributions
-- Developed responsive frontend architecture
-- Designed modern premium UI
-- Created reusable React components
-- Integrated optimized media assets
-- Focused on performance and UX
-
----
-
-# Professional Experience
-
-## Freelance Web Designer & Frontend Developer
-### Self-Employed
-**March 2023 – Present**
-
-- Designed and developed responsive websites
-- Built modern interfaces using React and Tailwind CSS
-- Created UI/UX systems using Figma and Canva
-- Worked directly with clients
-- Optimized websites for performance and responsiveness
-
----
-
-## Service Agent — HGS Campaign (Astound Broadband)
-**March 2025 – September 2025**
-
-- Delivered first-line technical support
-- Diagnosed connectivity issues
-- Maintained CRM ticketing systems
-- Escalated technical faults to higher-level teams
-
----
-
-## Customer Service Advisor — Teleperformance (VWFS Campaign)
-**October 2025 – January 2026**
-
-- Assisted customers in high-volume support environments
-- Maintained professional customer communication
-- Developed strong problem-solving abilities
+Responsive restaurant brand website with reusable React components and optimised media.
 
 ---
 
 # Education
 
 ## Cape Peninsula University of Technology (CPUT)
-### National Diploma in IT Applications Development
-**In Progress**
+### Diploma in ICT: Applications Development (NQF 6)
+**Expected December 2026**
 
 ---
 
-## Nnyameko High School
-### Matric (Grade 12)
+## Nyameko High School
+### National Senior Certificate (Matric)
+**2020**
 
 ---
 
-# Core Strengths
+# Certifications
 
-- Full-Stack Web Development
-- Frontend Engineering
-- UI/UX Design
-- REST API Development
-- Responsive Web Design
-- Technical Problem Solving
-- Git & Version Control
+## Google AI Essentials
+Google via Coursera, **August 2026**
+
+5-course specialisation covering AI fundamentals, prompting, AI productivity tools and responsible AI use.
 
 ---
 
 # References
 
-## Mariam Johnston
-Team Leader – Teleperformance  
-📞 +27 74 228 0790
-
----
-
-## Mr Clifford
-Team Leader – HGS  
-📞 082 640 8750
+Available on request.
 
 ---
 
