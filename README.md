@@ -32,7 +32,7 @@ The portfolio demonstrates my ability to:
 
 # Live Portfolio Website
 
-👉 https://siyamthanda-mnyabiso.github.io/digital-portfolio
+👉 https://siyamthanda-mnyabiso.github.io/
 
 ---
 
@@ -113,10 +113,31 @@ I enjoy turning ideas into real digital products with clean architecture and str
 
 ---
 
+# Agile Portfolio: PC Revival
+
+Evidence and reflections from **PC Revival**, a laptop repair and refurbished laptop sales platform for students. My role was frontend and UI.
+
+👉 **[Open the Agile Portfolio](https://siyamthanda-mnyabiso.github.io/agile.html)**
+
+| Item | What it shows |
+|------|---------------|
+| Agile Team Charter | Team purpose, values, goals, decision making and conflict resolution ([PDF](assets/pc-revival-team-charter.pdf)) |
+| User Stories and Tasks | Features written from the user's point of view, linked to Trello tasks |
+| Product Backlog | All project work grouped by phase |
+| Sprint Backlog | Sprints 1 to 6, from brainstorming to backend development |
+| Agile Logbook | Stand-up style entries per sprint |
+
+Each item has evidence and a reflection.
+
+🔗 [Trello board: PC Revival – Project Progress](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+
+---
+
 # Portfolio Sections
 
 - 📄 CV (Markdown)
 - 🧠 STAR Reflections
+- 🗂 Agile Portfolio (charter, user stories, backlogs, logbook)
 - 🎥 Mock Interview
 - 🚀 Projects
 - 🌐 GitHub Pages Deployment
