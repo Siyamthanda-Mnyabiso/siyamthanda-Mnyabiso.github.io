@@ -121,7 +121,7 @@ Evidence and reflections from **PC Revival**, a laptop repair and refurbished la
 
 | Item | What it shows |
 |------|---------------|
-| Agile Team Charter | Team purpose, values, goals, decision making and conflict resolution ([PDF](assets/pc-revival-team-charter.pdf)) |
+| Agile Team Charter | Team purpose, values, goals, decision making and conflict resolution (screenshot of the charter) |
 | User Stories and Tasks | Features written from the user's point of view, linked to Trello tasks |
 | Product Backlog | All project work grouped by phase |
 | Sprint Backlog | Sprints 1 to 6, from brainstorming to backend development |
@@ -129,7 +129,6 @@ Evidence and reflections from **PC Revival**, a laptop repair and refurbished la
 
 Each item has evidence and a reflection.
 
-🔗 [Trello board: PC Revival – Project Progress](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
 ---
 

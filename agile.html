@@ -46,6 +46,8 @@ th,td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}t
 .entry{background:var(--bg);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
 .entry h4{margin:0 0 8px;font-size:17px}
 .entry p{margin:4px 0;font-size:15px}.entry span{color:var(--accent);font-weight:700}
+@media print{:root{--bg:#fff;--card:#fff;--line:#d5d5e0;--text:#16161d;--muted:#555;--accent:#3b5bdb;--accent2:#7048e8;--ok:#0b8a5a}nav{display:none}h1{color:var(--text);background:none;-webkit-background-clip:initial}section{break-inside:auto}figure,.card,.entry{break-inside:avoid}body{font-size:15px}}
+figure{margin:18px 0 0}figure img{width:100%;height:auto;border:1px solid var(--line);border-radius:12px;display:block}figcaption{color:var(--muted);font-size:14px;margin-top:8px}
 footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px solid var(--line);font-size:14px}
 </style>
 </head>
@@ -65,14 +67,14 @@ footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px sol
 <div class="fact"><b>Team tools</b>Trello, GitHub, WhatsApp</div>
 <div class="fact"><b>Delivery</b>6 sprints</div>
 </div>
-<a class="btn" href="https://trello.com/b/68sMqKP5/pc-revival-project-progress" target="_blank" rel="noopener">Open the Trello board &rarr;</a>
 </header>
 
 <section id="charter">
 <h2><span class="num">1</span>Agile Team Charter</h2>
 <div class="card">
 <h3>Evidence</h3>
-<p>The charter was built by the whole team on a shared whiteboard.</p>
+<figure><img src="assets/charter-page.png" alt="PC Revival Team Charter whiteboard" loading="lazy"><figcaption>Screenshot: the PC Revival Team Charter, built by the whole team.</figcaption></figure>
+<p style="margin-top:16px">The charter was built by the whole team on a shared whiteboard.</p>
 <div class="grid" style="margin:16px 0">
 <div class="mini"><b>Purpose and values</b>Collaboration, accountability, respect, quality and continuous improvement.</div>
 <div class="mini"><b>Goals</b>A working website for repairs and refurbished sales, a repair request system, a database and a student friendly interface.</div>
@@ -81,7 +83,6 @@ footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px sol
 <div class="mini"><b>Decision making</b>Discuss, evaluate options, seek consensus, then vote if needed.</div>
 <div class="mini"><b>Conflict resolution</b>Talk respectfully, focus on the problem, mediate via the Scrum Master, escalate to the supervisor, then record the outcome.</div>
 </div>
-<a class="btn ghost" href="assets/pc-revival-team-charter.pdf" target="_blank" rel="noopener">Open the full charter (PDF)</a>
 </div>
 <div class="card reflect">
 <h3>Reflection</h3>
@@ -93,7 +94,8 @@ footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px sol
 <h2><span class="num">2</span>User Stories and Tasks</h2>
 <div class="card">
 <h3>Evidence</h3>
-<div class="table"><table>
+<figure><img src="assets/user-stories.png" alt="User stories and linked Trello tasks" loading="lazy"><figcaption>Screenshot: the six user stories and the Trello tasks they map to.</figcaption></figure>
+<div class="table" style="margin-top:16px"><table>
 <tr><th>#</th><th>User story</th><th>Tasks on Trello</th></tr>
 <tr><td>1</td><td>As a student, I want to see the services offered (repairs, upgrades, refurbished laptops), so that I know what help is available.</td><td>Define services offered; Create service page UI</td></tr>
 <tr><td>2</td><td>As a student, I want to see clear pricing, so that I can judge whether repairs and refurbished laptops are affordable.</td><td>Implement pricing page UI; Display pricing and services from the database</td></tr>
@@ -113,7 +115,8 @@ footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px sol
 <h2><span class="num">3</span>Product Backlog</h2>
 <div class="card">
 <h3>Evidence</h3>
-<p>The Product Backlog list on Trello holds all the project work, about 45 cards, grouped by phase.</p>
+<figure><img src="assets/trello-backlog-sprints-1-4.jpg" alt="Trello board showing the Product Backlog list with 45 cards" loading="lazy"><figcaption>Screenshot: the Product Backlog list (45 cards) on the Trello board.</figcaption></figure>
+<p style="margin-top:16px">The Product Backlog list on Trello holds all the project work, about 45 cards, grouped by phase.</p>
 <div class="grid" style="margin:16px 0">
 <div class="mini"><b>Business strategy</b>Group roles, services, value proposition.</div>
 <div class="mini"><b>Design</b>Structure, wireframes, mockups, documentation, handoff.</div>
@@ -124,7 +127,6 @@ footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px sol
 <div class="mini"><b>Later improvements</b>Payments, student membership, laptop rental, calendar, more campuses.</div>
 <div class="mini"><b>Deliverables</b>Final Report Deliverable 1 and 2.</div>
 </div>
-<a class="btn ghost" href="https://trello.com/b/68sMqKP5/pc-revival-project-progress" target="_blank" rel="noopener">View the backlog on Trello</a>
 </div>
 <div class="card reflect">
 <h3>Reflection</h3>
@@ -136,7 +138,9 @@ footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px sol
 <h2><span class="num">4</span>Sprint Backlog</h2>
 <div class="card">
 <h3>Evidence</h3>
-<div class="table"><table>
+<figure><img src="assets/trello-backlog-sprints-1-4.jpg" alt="Trello Sprints 1 to 4" loading="lazy"><figcaption>Screenshot: Sprint 1 to Sprint 4 lists on Trello.</figcaption></figure>
+<figure><img src="assets/trello-sprints-3-6.jpg" alt="Trello Sprints 3 to 6" loading="lazy"><figcaption>Screenshot: Sprint 3 to Sprint 6 lists on Trello, with the card checklists and members.</figcaption></figure>
+<div class="table" style="margin-top:16px"><table>
 <tr><th>Sprint</th><th>Focus</th><th>Cards</th><th>Examples</th></tr>
 <tr><td><span class="pill">1</span></td><td>Business idea brainstorming</td><td>4</td><td>Brainstorm ideas; define the problem; select final idea</td></tr>
 <tr><td><span class="pill">2</span></td><td>Survey</td><td>7</td><td>Design questions; create Google Form; distribute; find insights</td></tr>
@@ -145,7 +149,6 @@ footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px sol
 <tr><td><span class="pill">5</span></td><td>Frontend development</td><td>9</td><td>Setup; navigation; homepage; services, pricing, about, booking pages</td></tr>
 <tr><td><span class="pill">6</span></td><td>Backend development</td><td>6</td><td>Supabase; PostgreSQL schema; CRUD API; booking logic; admin login</td></tr>
 </table></div>
-<p style="margin-top:16px"><a href="https://trello.com/b/68sMqKP5/pc-revival-project-progress" target="_blank" rel="noopener">View the sprint lists on Trello &rarr;</a></p>
 </div>
 <div class="card reflect">
 <h3>Reflection</h3>
@@ -157,7 +160,8 @@ footer{text-align:center;color:var(--muted);padding:30px 16px;border-top:1px sol
 <h2><span class="num">5</span>Agile Logbook</h2>
 <div class="card">
 <h3>Evidence</h3>
-<div class="log">
+<figure><img src="assets/agile-logbook.png" alt="Agile logbook entries for sprints 1 to 6" loading="lazy"><figcaption>Screenshot: the agile logbook, one entry per sprint.</figcaption></figure>
+<div class="log" style="margin-top:16px">
 <div class="entry"><h4>Sprint 1: Business idea brainstorming</h4><p><span>Completed:</span> brainstormed ideas, defined the problem of laptop issues among students, selected the final idea.</p><p><span>Next:</span> survey students to test the idea.</p><p><span>Impediments:</span> agreeing on one idea as a group.</p></div>
 <div class="entry"><h4>Sprint 2: Survey</h4><p><span>Completed:</span> designed the questions, created the Google Form, distributed it, reviewed the results.</p><p><span>Next:</span> turn the insights into a plan.</p><p><span>Impediments:</span> getting enough responses in a short time.</p></div>
 <div class="entry"><h4>Sprint 3: Planning and analysis</h4><p><span>Completed:</span> defined the problem, services, availability, target user, location, MVP and feasibility.</p><p><span>Next:</span> start the design.</p><p><span>Impediments:</span> keeping the scope small enough for the time available.</p></div>
